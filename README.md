@@ -40,28 +40,30 @@ These are selected projects, not a complete list of repositories. Project status
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Activity dashboard online" />
-<img src="https://img.shields.io/badge/TELEMETRY-365%20DAYS-8B9CFF?style=for-the-badge&labelColor=0D1117" alt="365 day activity window" />
-<img src="https://img.shields.io/badge/FOCUS-CONSISTENCY-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Consistency focus" />
+<img src="https://raw.githubusercontent.com/sakshamsingh22/sakshamsingh22/design/engineering-activity-dashboard-v2/assets/engineering-activity-dashboard.svg" width="100%" alt="Engineering activity dashboard: Build, Ship, Learn" />
 
 <br/><br/>
 
 <a href="https://github.com/sakshamsingh22">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamsingh22&theme=github_dark" width="100%" alt="GitHub engineering activity across the year" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamsingh22&theme=github_dark" width="100%" alt="GitHub contribution activity summary" />
 </a>
 
 <br/>
 
 <a href="https://github.com/sakshamsingh22">
-  <img src="https://streak-stats.demolab.com?user=sakshamsingh22&theme=transparent&hide_border=true&background=0D1117&ring=8B9CFF&fire=22D3EE&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak telemetry" />
+  <img src="https://streak-stats.demolab.com?user=sakshamsingh22&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=E2E8F0&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub contribution streak" />
 </a>
 
 </div>
 
-### Activity signal
+### The engineering loop
+
+| <img src="https://img.shields.io/badge/01-EXPLORE-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Explore" /> | <img src="https://img.shields.io/badge/02-ENGINEER-6366F1?style=for-the-badge&labelColor=0D1117" alt="Engineer" /> | <img src="https://img.shields.io/badge/03-SHIP-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Ship" /> |
+| --- | --- | --- |
+| Learn the problem, investigate ideas, and test assumptions. | Build useful software with clear architecture and reliable behavior. | Share the work, collect feedback, and improve the next iteration. |
 
 > **BUILD. SHIP. LEARN. REPEAT.**  
-> A year-view of public GitHub activity, contribution rhythm, and consistency. The native GitHub contribution calendar above remains the source of truth; these dashboard cards provide an additional visual summary.
+> A visual snapshot of public GitHub activity and contribution rhythm. GitHub's native contribution calendar remains the source of truth; third-party cards may be cached or temporarily unavailable.
 
 ## Technical toolkit
 
