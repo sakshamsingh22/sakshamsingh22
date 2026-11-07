@@ -1,45 +1,48 @@
-<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Saksham Singh 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamsingh22&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsingh22" /> </p>
+**Computer Science & Engineering Student (2027) | Python & AI Application Developer | Full-Stack Developer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamsingh22" alt="sakshamsingh22" /></a> </p>
+I build practical software across AI-powered applications, backend APIs, and web products. I'm currently strengthening my foundations in problem solving, backend engineering, and applied AI while preparing for software engineering opportunities in 2027.
 
-<p align="left"> <a href="https://twitter.com/sakshambyte" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambyte?logo=twitter&style=for-the-badge" alt="sakshambyte" /></a> </p>
+- 🎓 B.Tech, Computer Science & Engineering, KIET Group of Institutions (2023–2027)
+- 🧠 Interested in Python, LLM applications, agent workflows, RAG, computer vision, and full-stack development
+- 💻 Practicing DSA in C++ and building projects with Python and JavaScript
+- 🌐 Portfolio: [saksham-singh.in](https://saksham-singh.in)
+- 💼 LinkedIn: [Saksham Singh](https://linkedin.com/in/saksham-singh-5b2627290)
+- 📫 Email: [saksham22.dev@gmail.com](mailto:saksham22.dev@gmail.com)
 
-- 🌱 I’m currently learning **DJANGO**
+## Featured projects
 
-- 💬 Ask me about **React,Python,C++(DSA)**
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Quorum: Multi-Agent Research Assistant](https://github.com/sakshamsingh22/quorum-multi-agent-research) | Coordinates specialist agents to search, read, draft, and critique research reports. | Python, LangChain, LangGraph, Streamlit, Tavily |
+| [AI Video Assistant](https://github.com/sakshamsingh22/AI-Video-Assistant) | Turns long-form video into transcripts, summaries, extracted action items, and searchable Q&A. | Python, Streamlit, transcription, RAG |
+| [Indian Sign Language Detection](https://github.com/sakshamsingh22/Sign-Language-Detection) | Real-time ISL gesture recognition with text and speech output. The README reports 93.75% K-fold validation accuracy for its custom 8-class word model. | Python, OpenCV, MediaPipe, MobileNetV2 |
+| [WIBLY](https://github.com/sakshamsingh22/wibly) | A web design and development studio project with a React frontend and a small Express contact/admin backend. | React, Vite, Node.js, Express |
+| [3D Portfolio](https://github.com/sakshamsingh22/portfolio-website) | Personal portfolio built with interactive 3D scenes and motion. | React, Vite, Three.js, React Three Fiber |
+| [SamTrack OS](https://github.com/sakshamsingh22/SamTrack-OS) | Productivity-focused application project. | See repository for implementation details |
 
-- 📫 How to reach me **saksham22.dev@gmail.com**
+## Technical skills
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OIoJYIigzNa-pB1wXSfGpsV1JpcET7oU/view?usp=drive_link](https://drive.google.com/file/d/1OIoJYIigzNa-pB1wXSfGpsV1JpcET7oU/view?usp=drive_link)
+**Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
+**Frontend:** React, Vite, Tailwind CSS  
+**Backend:** FastAPI, Node.js, Express, REST APIs  
+**AI / ML:** LangChain, LangGraph, RAG, Streamlit, OpenCV, MediaPipe, MobileNetV2  
+**Databases & tools:** MySQL, SQLite, Git, GitHub, Docker
 
-- ⚡ Fun fact **I think I am funny 😄**
+## Problem solving
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [LeetCode](https://leetcode.com/sakshambyte)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sakshambyte)
+- [Codeforces](https://codeforces.com/profile/sakshambyte)
+- [CodeChef](https://www.codechef.com/users/saksham122)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sakshambyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshambyte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saksham-singh-5b2627290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-singh-5b2627290" height="30" width="40" /></a>
-<a href="https://kaggle.com/sakshambyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakshambyte" height="30" width="40" /></a>
-<a href="https://instagram.com/sakshamsingh.122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshamsingh.122" height="30" width="40" /></a>
-<a href="https://medium.com/@sakshamsingh111111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakshamsingh111111" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/engineering.diaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engineering.diaries" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saksham122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saksham122" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sakshambyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sakshambyte" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshambyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshambyte" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sakshambyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakshambyte" height="30" width="40" /></a>
-</p>
+## What I'm working towards
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- Writing maintainable, tested, and well-documented production code
+- Improving DSA, SQL, DBMS, operating systems, and computer networks fundamentals
+- Building reliable AI applications with clear evaluation and measurable outcomes
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamsingh22&show_icons=true&locale=en&layout=compact" alt="sakshamsingh22" /></p> 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamsingh22&show_icons=true&locale=en" alt="sakshamsingh22" /></p> 
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamsingh22&" alt="sakshamsingh22" /></p> 
+*I value clear engineering, useful products, and learning by building.*
