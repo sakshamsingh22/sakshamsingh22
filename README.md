@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://saksham-singh.in">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:312E81,100:4338CA&text=Saksham%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineering%20%7C%20AI%20Systems%20%7C%20Backend%20Development&descSize=15&descAlignY=68" width="100%" alt="Saksham Singh — Software Engineering, AI Systems and Backend Development" />
-</a>
+<a href="https://saksham-singh.in"><img src="https://raw.githubusercontent.com/sakshamsingh22/sakshamsingh22/main/assets/profile-banner.svg" width="100%" alt="Saksham Singh — Software Engineering and Applied AI" /></a>
 
 ### Building useful software at the intersection of engineering and AI.
 
@@ -50,10 +48,10 @@ I'm actively exploring **software engineering and AI engineering opportunities**
       <p><sub>Python · OpenCV · MediaPipe · TensorFlow · MobileNetV2</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://saksham-singh.in">Personal Portfolio</a></h3>
-      <p><strong>Selected work & engineering profile</strong></p>
-      <p>A central place to explore my projects, technical interests, and work.</p>
-      <p><sub>React · Vite · Three.js · Tailwind CSS · Framer Motion</sub></p>
+      <h3><a href="https://github.com/sakshamsingh22/wibly">WIBLY</a></h3>
+      <p><strong>Web Design & Development Studio</strong></p>
+      <p>A small-business-focused digital studio project with a React frontend and Node.js/Express contact workflow.</p>
+      <p><sub>React · Vite · Node.js · Express · Nodemailer</sub></p>
     </td>
   </tr>
 </table>
@@ -99,7 +97,6 @@ I'm actively exploring **software engineering and AI engineering opportunities**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
 ## Engineering principles
 
