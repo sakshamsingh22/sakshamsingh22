@@ -60,7 +60,7 @@ These are selected projects, not a complete list of repositories. Project status
 <div align="center">
 
 <a href="https://github.com/sakshamsingh22">
-  <img src="https://ghchart.rshah.org/8B9CFF/sakshamsingh22" width="100%" alt="GitHub contribution activity chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamsingh22&theme=github_dark" width="100%" alt="GitHub contribution activity and profile summary in high-contrast dark theme" />
 </a>
 
 </div>
