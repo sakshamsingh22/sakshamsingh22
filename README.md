@@ -32,6 +32,7 @@ I'm actively exploring **software engineering and AI engineering opportunities**
       <p><strong>Multi-Agent AI Research Assistant</strong></p>
       <p>A research workflow that coordinates specialist agents to search the web, extract source content, write structured reports, and critique the result.</p>
       <p><sub>Python · LangChain · Mistral AI · Tavily · Streamlit</sub></p>
+      <a href="https://github.com/sakshamsingh22/quorum-multi-agent-research"><img src="https://raw.githubusercontent.com/sakshamsingh22/quorum-multi-agent-research/main/assets/demo_home.png" width="100%" alt="Quorum application screenshot" /></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sakshamsingh22/AI-Video-Assistant">AI Video Assistant</a></h3>
@@ -79,7 +80,7 @@ I'm actively exploring **software engineering and AI engineering opportunities**
 ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B46A8?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-![OpenAI](https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square)
 ![Whisper](https://img.shields.io/badge/Whisper-111827?style=flat-square)
 
 **Frontend & UI**
@@ -107,10 +108,7 @@ I'm actively exploring **software engineering and AI engineering opportunities**
 
 ## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshamsingh22&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub contribution statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsingh22&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
-</div>
+I keep my contribution history public. Explore the **[contribution graph and activity timeline](https://github.com/sakshamsingh22?tab=overview)** or browse the **[repositories](https://github.com/sakshamsingh22?tab=repositories)**.
 
 ---
 
