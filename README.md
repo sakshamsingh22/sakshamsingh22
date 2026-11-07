@@ -34,6 +34,47 @@ These are selected projects, not a complete list of repositories. Project status
 | [3D Portfolio](https://github.com/sakshamsingh22/portfolio-website) | Interactive personal portfolio with 3D scenes and motion. | React, Vite, Three.js, React Three Fiber |
 | [WIBLY](https://github.com/sakshamsingh22/wibly) | Small-business web design and development studio project. | React, Vite, Node.js, Express |
 
+---
+
+## GitHub analytics
+
+<div align="center">
+
+<a href="https://github.com/sakshamsingh22">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sakshamsingh22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B9CFF&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B9CFF" alt="GitHub profile statistics" />
+</a>
+<a href="https://github.com/sakshamsingh22">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsingh22&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B9CFF&text_color=C9D1D9" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=sakshamsingh22&theme=transparent&hide_border=true&background=0D1117&ring=8B9CFF&fire=22D3EE&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+<a href="https://github.com/sakshamsingh22">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamsingh22&bg_color=0D1117&color=C9D1D9&line=8B9CFF&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakshamsingh22&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub profile trophies" />
+
+</div>
+
+> **About these cards:** Statistics and activity visualizations are fetched from public GitHub profile data by community-maintained services. They may be cached, delayed, or temporarily unavailable. GitHub's native contribution calendar remains visible on the profile page as well.
+
 ## Technical toolkit
 
 **Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
