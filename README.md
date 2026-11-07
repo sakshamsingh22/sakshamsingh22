@@ -36,36 +36,32 @@ These are selected projects, not a complete list of repositories. Project status
 
 ---
 
-## GitHub analytics
+## Engineering activity
 
 <div align="center">
 
-<a href="https://github.com/sakshamsingh22">
-  <img src="https://img.shields.io/github/followers/sakshamsingh22?label=Followers&style=for-the-badge&logo=github&color=8B9CFF" alt="GitHub followers" />
-</a>
-<a href="https://github.com/sakshamsingh22?tab=repositories">
-  <img src="https://img.shields.io/github/repos/sakshamsingh22?label=Public%20repositories&style=for-the-badge&logo=github&color=22D3EE" alt="Public repositories" />
-</a>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Activity dashboard online" />
+<img src="https://img.shields.io/badge/TELEMETRY-365%20DAYS-8B9CFF?style=for-the-badge&labelColor=0D1117" alt="365 day activity window" />
+<img src="https://img.shields.io/badge/FOCUS-CONSISTENCY-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Consistency focus" />
 
 <br/><br/>
 
 <a href="https://github.com/sakshamsingh22">
-  <img src="https://streak-stats.demolab.com?user=sakshamsingh22&theme=transparent&hide_border=true&background=0D1117&ring=8B9CFF&fire=22D3EE&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamsingh22&theme=github_dark" width="100%" alt="GitHub engineering activity across the year" />
 </a>
 
-</div>
-
-## Contribution activity
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/sakshamsingh22">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamsingh22&theme=github_dark" width="100%" alt="GitHub contribution activity and profile summary in high-contrast dark theme" />
+  <img src="https://streak-stats.demolab.com?user=sakshamsingh22&theme=transparent&hide_border=true&background=0D1117&ring=8B9CFF&fire=22D3EE&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak telemetry" />
 </a>
 
 </div>
 
-> **About these visuals:** The cards use public GitHub profile data from external services. Counts and contribution activity can be cached or delayed. GitHub's native contribution calendar remains the source of truth.
+### Activity signal
+
+> **BUILD. SHIP. LEARN. REPEAT.**  
+> A year-view of public GitHub activity, contribution rhythm, and consistency. The native GitHub contribution calendar above remains the source of truth; these dashboard cards provide an additional visual summary.
 
 ## Technical toolkit
 
