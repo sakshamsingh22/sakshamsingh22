@@ -108,7 +108,19 @@ I'm actively exploring **software engineering and AI engineering opportunities**
 
 ## GitHub activity
 
-I keep my contribution history public. Explore the **[contribution graph and activity timeline](https://github.com/sakshamsingh22?tab=overview)** or browse the **[repositories](https://github.com/sakshamsingh22?tab=repositories)**.
+<div align="center">
+  <a href="https://github.com/sakshamsingh22">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=sakshamsingh22&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Live GitHub profile statistics for Saksham Singh" />
+  </a>
+  <a href="https://github.com/sakshamsingh22?tab=repositories">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamsingh22&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages across public repositories" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/sakshamsingh22?tab=overview">Contribution graph & activity</a> ·
+  <a href="https://github.com/sakshamsingh22?tab=repositories">All repositories</a>
+</p>
 
 ---
 
