@@ -63,8 +63,6 @@ These are selected projects, not a complete list of repositories. Project status
 > **BUILD. SHIP. LEARN. REPEAT.**  
 > A year-view of public GitHub activity, contribution rhythm, and consistency. The native GitHub contribution calendar above remains the source of truth; these dashboard cards provide an additional visual summary.
 
-<text> </text>
-
 ## Technical toolkit
 
 **Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
