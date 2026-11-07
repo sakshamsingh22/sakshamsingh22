@@ -1,48 +1,73 @@
-# Hi, I'm Saksham Singh 👋
+<div align="center">
 
-**Computer Science & Engineering Student (2027) | Python & AI Application Developer | Full-Stack Developer**
+<a href="https://saksham-singh.in"><img src="https://raw.githubusercontent.com/sakshamsingh22/sakshamsingh22/main/assets/profile-banner.svg" width="100%" alt="Saksham Singh — Software Engineering and Applied AI" /></a>
 
-I build practical software across AI-powered applications, backend APIs, and web products. I'm currently strengthening my foundations in problem solving, backend engineering, and applied AI while preparing for software engineering opportunities in 2027.
+### Building useful software at the intersection of engineering and AI.
 
-- 🎓 B.Tech, Computer Science & Engineering, KIET Group of Institutions (2023–2027)
-- 🧠 Interested in Python, LLM applications, agent workflows, RAG, computer vision, and full-stack development
-- 💻 Practicing DSA in C++ and building projects with Python and JavaScript
-- 🌐 Portfolio: [saksham-singh.in](https://saksham-singh.in)
-- 💼 LinkedIn: [Saksham Singh](https://linkedin.com/in/saksham-singh-5b2627290)
-- 📫 Email: [saksham22.dev@gmail.com](mailto:saksham22.dev@gmail.com)
+[Portfolio](https://saksham-singh.in) · [LinkedIn](https://linkedin.com/in/saksham-singh-5b2627290) · [LeetCode](https://leetcode.com/sakshambyte) · [Email](mailto:saksham22.dev@gmail.com)
+
+</div>
+
+---
+
+## About
+
+I'm **Saksham Singh**, a Computer Science & Engineering undergraduate at **KIET Group of Institutions (2023–2027)**. I build practical software across applied AI, backend development, computer vision, and full-stack applications.
+
+My current focus is on writing maintainable software, strengthening engineering fundamentals, and building AI applications whose behavior and limitations are clearly documented.
+
+- **Engineering interests:** Backend systems, APIs, full-stack products, and developer tools.
+- **Applied AI:** LLM applications, RAG, multi-agent workflows, and computer vision.
+- **Problem solving:** Data structures and algorithms using C++ and Python.
+- **Looking for:** Entry-level software engineering and applied AI opportunities.
 
 ## Featured projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Quorum: Multi-Agent Research Assistant](https://github.com/sakshamsingh22/quorum-multi-agent-research) | Coordinates specialist agents to search, read, draft, and critique research reports. | Python, LangChain, LangGraph, Streamlit, Tavily |
-| [AI Video Assistant](https://github.com/sakshamsingh22/AI-Video-Assistant) | Turns long-form video into transcripts, summaries, extracted action items, and searchable Q&A. | Python, Streamlit, transcription, RAG |
-| [Indian Sign Language Detection](https://github.com/sakshamsingh22/Sign-Language-Detection) | Real-time ISL gesture recognition with text and speech output. The README reports 93.75% K-fold validation accuracy for its custom 8-class word model. | Python, OpenCV, MediaPipe, MobileNetV2 |
-| [WIBLY](https://github.com/sakshamsingh22/wibly) | A web design and development studio project with a React frontend and a small Express contact/admin backend. | React, Vite, Node.js, Express |
-| [3D Portfolio](https://github.com/sakshamsingh22/portfolio-website) | Personal portfolio built with interactive 3D scenes and motion. | React, Vite, Three.js, React Three Fiber |
-| [SamTrack OS](https://github.com/sakshamsingh22/SamTrack-OS) | Productivity-focused application project. | See repository for implementation details |
+These are selected projects, not a complete list of repositories. Project status, implementation details, and limitations are documented in each repository.
 
-## Technical skills
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Quorum — Multi-Agent Research Assistant](https://github.com/sakshamsingh22/quorum-multi-agent-research) | Four-stage research workflow for web discovery, source reading, report synthesis, and critique. | Python, LangChain, Mistral, Tavily, Streamlit |
+| [AI Video Assistant](https://github.com/sakshamsingh22/AI-Video-Assistant) | Media transcription, summaries, action-item extraction, and transcript-grounded Q&A. | Python, Whisper, Sarvam AI, ChromaDB, Mistral |
+| [Indian Sign Language Detection](https://github.com/sakshamsingh22/Sign-Language-Detection) | Webcam-based gesture recognition with hand tracking, classification, and speech feedback. | Python, OpenCV, MediaPipe, TensorFlow, MobileNetV2 |
+| [SamTrack OS](https://github.com/sakshamsingh22/SamTrack-OS) | Productivity and coding-tracker application focused on DSA progress and focus management. | JavaScript |
+| [3D Portfolio](https://github.com/sakshamsingh22/portfolio-website) | Interactive personal portfolio with 3D scenes and motion. | React, Vite, Three.js, React Three Fiber |
+| [WIBLY](https://github.com/sakshamsingh22/wibly) | Small-business web design and development studio project. | React, Vite, Node.js, Express |
+
+## Technical toolkit
 
 **Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
 **Frontend:** React, Vite, Tailwind CSS  
 **Backend:** FastAPI, Node.js, Express, REST APIs  
-**AI / ML:** LangChain, LangGraph, RAG, Streamlit, OpenCV, MediaPipe, MobileNetV2  
-**Databases & tools:** MySQL, SQLite, Git, GitHub, Docker
+**Applied AI / ML:** LangChain, RAG, Streamlit, OpenCV, MediaPipe, TensorFlow, Whisper  
+**Databases & tools:** MySQL, SQLite, ChromaDB, Git, GitHub, Docker
+
+I keep this list focused on technologies I have used in projects or practical learning. Individual repositories contain the exact dependencies and implementation details.
 
 ## Problem solving
 
 - [LeetCode](https://leetcode.com/sakshambyte)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sakshambyte)
-- [Codeforces](https://codeforces.com/profile/sakshambyte)
-- [CodeChef](https://www.codechef.com/users/saksham122)
 
-## What I'm working towards
+## Engineering approach
 
-- Writing maintainable, tested, and well-documented production code
-- Improving DSA, SQL, DBMS, operating systems, and computer networks fundamentals
-- Building reliable AI applications with clear evaluation and measurable outcomes
+- **Make it understandable:** document setup, architecture, configuration, and trade-offs.
+- **Validate claims:** distinguish measured results from experiments and assumptions.
+- **Test important behavior:** cover edge cases and make failures visible.
+- **Build responsibly:** protect credentials, validate untrusted input, and document limitations.
+
+## Current focus
+
+- Strengthening DSA, SQL, DBMS, operating systems, and computer networks.
+- Improving backend engineering and API design.
+- Building reliable AI applications with meaningful evaluation and reproducible workflows.
 
 ---
 
-*I value clear engineering, useful products, and learning by building.*
+<div align="center">
+
+**Interested in building useful software and practical AI systems.**
+
+[Portfolio](https://saksham-singh.in) · [LinkedIn](https://linkedin.com/in/saksham-singh-5b2627290) · [GitHub](https://github.com/sakshamsingh22)
+
+</div>
