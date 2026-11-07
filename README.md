@@ -12,121 +12,61 @@
 
 ## About
 
-I'm **Saksham Singh**, a Computer Science undergraduate at **KIET Group of Institutions (2023–2027)**, interested in building reliable software products and practical AI-powered systems.
+I'm **Saksham Singh**, a Computer Science & Engineering undergraduate at **KIET Group of Institutions (2023–2027)**. I build practical software across applied AI, backend development, computer vision, and full-stack applications.
 
-My work spans backend development, applied AI, agentic workflows, retrieval-augmented generation (RAG), and full-stack applications. I enjoy taking an idea from its architecture and implementation through to a usable product.
+My current focus is on writing maintainable software, strengthening engineering fundamentals, and building AI applications whose behavior and limitations are clearly documented.
 
-- **Engineering interests:** Software engineering, backend systems, AI applications, and developer tools.
-- **AI focus:** LLM applications, RAG pipelines, multi-agent orchestration, embeddings, and workflow automation.
-- **Problem solving:** Data structures and algorithms with C++ and Python.
-- **Current goal:** Strengthening my engineering fundamentals and building production-minded projects.
-
-I'm actively exploring **software engineering and AI engineering opportunities**.
+- **Engineering interests:** Backend systems, APIs, full-stack products, and developer tools.
+- **Applied AI:** LLM applications, RAG, multi-agent workflows, and computer vision.
+- **Problem solving:** Data structures and algorithms using C++ and Python.
+- **Looking for:** Entry-level software engineering and applied AI opportunities.
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakshamsingh22/quorum-multi-agent-research">Quorum</a></h3>
-      <p><strong>Multi-Agent AI Research Assistant</strong></p>
-      <p>A research workflow that coordinates specialist agents to search the web, extract source content, write structured reports, and critique the result.</p>
-      <p><sub>Python · LangChain · Mistral AI · Tavily · Streamlit</sub></p>
-      <a href="https://github.com/sakshamsingh22/quorum-multi-agent-research"><img src="https://raw.githubusercontent.com/sakshamsingh22/quorum-multi-agent-research/main/assets/demo_home.png" width="100%" alt="Quorum application screenshot" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakshamsingh22/AI-Video-Assistant">AI Video Assistant</a></h3>
-      <p><strong>Audio / Video Intelligence & RAG</strong></p>
-      <p>Transforms long-form media into transcripts, summaries, action items, decisions, and transcript-grounded question answering.</p>
-      <p><sub>Python · Whisper · Sarvam AI · LangChain · ChromaDB · Streamlit</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakshamsingh22/Sign-Language-Detection">Indian Sign Language Detection</a></h3>
-      <p><strong>Real-Time Computer Vision</strong></p>
-      <p>Explores webcam-based ISL gesture recognition with hand tracking, image normalization, MobileNetV2 classification, and text-to-speech feedback.</p>
-      <p><sub>Python · OpenCV · MediaPipe · TensorFlow · MobileNetV2</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sakshamsingh22/wibly">WIBLY</a></h3>
-      <p><strong>Web Design & Development Studio</strong></p>
-      <p>A small-business-focused digital studio project with a React frontend and Node.js/Express contact workflow.</p>
-      <p><sub>React · Vite · Node.js · Express · Nodemailer</sub></p>
-    </td>
-  </tr>
-</table>
+These are selected projects, not a complete list of repositories. Project status, implementation details, and limitations are documented in each repository.
 
-> I prioritize clear architecture, understandable code, useful documentation, and verifiable results over feature lists.
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Quorum — Multi-Agent Research Assistant](https://github.com/sakshamsingh22/quorum-multi-agent-research) | Four-stage research workflow for web discovery, source reading, report synthesis, and critique. | Python, LangChain, Mistral, Tavily, Streamlit |
+| [AI Video Assistant](https://github.com/sakshamsingh22/AI-Video-Assistant) | Media transcription, summaries, action-item extraction, and transcript-grounded Q&A. | Python, Whisper, Sarvam AI, ChromaDB, Mistral |
+| [Indian Sign Language Detection](https://github.com/sakshamsingh22/Sign-Language-Detection) | Webcam-based gesture recognition with hand tracking, classification, and speech feedback. | Python, OpenCV, MediaPipe, TensorFlow, MobileNetV2 |
+| [SamTrack OS](https://github.com/sakshamsingh22/SamTrack-OS) | Productivity and coding-tracker application focused on DSA progress and focus management. | JavaScript |
+| [3D Portfolio](https://github.com/sakshamsingh22/portfolio-website) | Interactive personal portfolio with 3D scenes and motion. | React, Vite, Three.js, React Three Fiber |
+| [WIBLY](https://github.com/sakshamsingh22/wibly) | Small-business web design and development studio project. | React, Vite, Node.js, Express |
 
 ## Technical toolkit
 
-**Languages**
+**Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
+**Frontend:** React, Vite, Tailwind CSS  
+**Backend:** FastAPI, Node.js, Express, REST APIs  
+**Applied AI / ML:** LangChain, RAG, Streamlit, OpenCV, MediaPipe, TensorFlow, Whisper  
+**Databases & tools:** MySQL, SQLite, ChromaDB, Git, GitHub, Docker
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I keep this list focused on technologies I have used in projects or practical learning. Individual repositories contain the exact dependencies and implementation details.
 
-**Backend & APIs**
+## Problem solving
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-374151?style=flat-square)
+- [LeetCode](https://leetcode.com/sakshambyte)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sakshambyte)
 
-**AI & Machine Learning**
+## Engineering approach
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B46A8?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper-111827?style=flat-square)
+- **Make it understandable:** document setup, architecture, configuration, and trade-offs.
+- **Validate claims:** distinguish measured results from experiments and assumptions.
+- **Test important behavior:** cover edge cases and make failures visible.
+- **Build responsibly:** protect credentials, validate untrusted input, and document limitations.
 
-**Frontend & UI**
+## Current focus
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data, tools & workflow**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## Engineering principles
-
-- **Build for clarity:** small, understandable components and explicit interfaces.
-- **Validate assumptions:** test edge cases and make failure modes visible.
-- **Design for maintainability:** document setup, configuration, and architectural decisions.
-- **Use AI deliberately:** treat model outputs as untrusted inputs and keep application logic observable and testable.
-
-## GitHub activity
-
-<div align="center">
-  <a href="https://github.com/sakshamsingh22">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=sakshamsingh22&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Live GitHub profile statistics for Saksham Singh" />
-  </a>
-  <a href="https://github.com/sakshamsingh22?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamsingh22&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages across public repositories" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/sakshamsingh22?tab=overview">Contribution graph & activity</a> ·
-  <a href="https://github.com/sakshamsingh22?tab=repositories">All repositories</a>
-</p>
+- Strengthening DSA, SQL, DBMS, operating systems, and computer networks.
+- Improving backend engineering and API design.
+- Building reliable AI applications with meaningful evaluation and reproducible workflows.
 
 ---
 
 <div align="center">
 
-**Interested in building thoughtful software and practical AI systems.**
+**Interested in building useful software and practical AI systems.**
 
 [Portfolio](https://saksham-singh.in) · [LinkedIn](https://linkedin.com/in/saksham-singh-5b2627290) · [GitHub](https://github.com/sakshamsingh22)
 
