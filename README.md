@@ -41,15 +41,15 @@ These are selected projects, not a complete list of repositories. Project status
 <div align="center">
 
 <a href="https://github.com/sakshamsingh22">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sakshamsingh22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B9CFF&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B9CFF" alt="GitHub profile statistics" />
+  <img src="https://img.shields.io/github/followers/sakshamsingh22?label=Followers&style=for-the-badge&logo=github&color=8B9CFF" alt="GitHub followers" />
 </a>
+<a href="https://github.com/sakshamsingh22?tab=repositories">
+  <img src="https://img.shields.io/github/repos/sakshamsingh22?label=Public%20repositories&style=for-the-badge&logo=github&color=22D3EE" alt="Public repositories" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/sakshamsingh22">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsingh22&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B9CFF&text_color=C9D1D9" alt="Most used programming languages" />
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=sakshamsingh22&theme=transparent&hide_border=true&background=0D1117&ring=8B9CFF&fire=22D3EE&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </a>
 
@@ -60,20 +60,12 @@ These are selected projects, not a complete list of repositories. Project status
 <div align="center">
 
 <a href="https://github.com/sakshamsingh22">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamsingh22&bg_color=0D1117&color=C9D1D9&line=8B9CFF&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://ghchart.rshah.org/8B9CFF/sakshamsingh22" width="100%" alt="GitHub contribution activity chart" />
 </a>
 
 </div>
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakshamsingh22&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub profile trophies" />
-
-</div>
-
-> **About these cards:** Statistics and activity visualizations are fetched from public GitHub profile data by community-maintained services. They may be cached, delayed, or temporarily unavailable. GitHub's native contribution calendar remains visible on the profile page as well.
+> **About these visuals:** The cards use public GitHub profile data from external services. Counts and contribution activity can be cached or delayed. GitHub's native contribution calendar remains the source of truth.
 
 ## Technical toolkit
 
